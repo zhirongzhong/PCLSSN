@@ -1,0 +1,21 @@
+# PCLSSN: Physics-Consistent Liquid State-Space Network
+# Core dependencies
+#
+# Install: pip install -r requirements.txt
+
+# PyTorch (install separately for your CUDA version if needed)
+# See https://pytorch.org/get-started/locally/
+torch>=2.0.0
+
+# Scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Neural Circuit Policies (CfC / Liquid Networks)
+ncps>=0.0.4
+
+# Progress bars
+tqdm>=4.64.0
+
+# Plotting (optional, for visualization)
+matplotlib>=3.7.0
