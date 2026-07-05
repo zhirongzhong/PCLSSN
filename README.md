@@ -38,7 +38,6 @@ pip install -r requirements.txt
 ## Quick Start
 
 ```bash
-# Run the full PHM2010 experiment pipeline
 python scripts/run_experiments.py
 ```
 
