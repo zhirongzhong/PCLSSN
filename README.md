@@ -12,7 +12,7 @@ Official implementation of Physics-Consistent Liquid State-Space Network for Rem
 
 ## Overview
 
-PCLSSN is a deep learning framework for Remaining Useful Life (RUL) prediction that architecturally enforces physical consistency constraints in neural networks.
+PCLSSN is a deep learning method for Remaining Useful Life (RUL) prediction that architecturally enforces physical consistency constraints in neural networks.
 
 ## Installation
 
@@ -50,16 +50,13 @@ If you use this work in your research, please cite:
 
 ```bibtex
 @article{ZHONG2026104597,
-    title = {Physics-Consistent Liquid State-Space Network for
-             Remaining Useful Life Prediction with Architecturally
-             Enforced Degradation Consistency},
+    title = {Physics-Consistent Liquid State-Space Network for Remaining Useful Life Prediction with Architecturally Enforced Degradation Consistency},
     journal = {Information Fusion},
     pages = {104597},
     year = {2026},
     issn = {1566-2535},
     doi = {https://doi.org/10.1016/j.inffus.2026.104597},
-    author = {Zhirong Zhong and Yinuo Yue and Zhongyi Zhang and
-              Zhi Zhai and Meng Ma and Jinxin Liu},
+    author = {Zhirong Zhong and Yinuo Yue and Zhongyi Zhang and Zhi Zhai and Meng Ma and Jinxin Liu},
 }
 ```
 
